@@ -25,7 +25,7 @@ def rotation(theta=0, axis=None):
 						[0,0,0,1]])
 										
 	else:
-		print("The axis is x / y / z !!")
+		print("The axis is x / y / z !")
 		return
 	return rot
 	
